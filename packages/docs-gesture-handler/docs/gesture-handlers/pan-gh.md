@@ -166,7 +166,7 @@ Y coordinate of the current position of the pointer (finger or a leading pointer
 
 ## Example
 
-See the [draggable example](https://github.com/software-mansion/react-native-gesture-handler/blob/main/example/src/basic/draggable/index.tsx) from Gesture Handler Example App.
+See the [draggable example](https://github.com/software-mansion/react-native-gesture-handler/blob/main/apps/common-app/src/basic/draggable/index.tsx) from Gesture Handler Example App.
 
 ```js
 import React, { Component } from 'react';
