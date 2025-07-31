@@ -62,7 +62,7 @@ function App() {
 
 ## Remarks
 
-- Don't rely on `Hover` gesture to continue after the mouse button is clicked or the stylus touches the screen. If you want to handle both cases, [compose](/docs/fundamentals/gesture-composition) it with [`Pan` gesture](/docs/gestures/pan-gesture).
+- Don't rely on `Hover` gesture to continue after the mouse button is clicked or the stylus touches the screen. If you want to handle both cases, [compose](/packages/docs-gesture-handler/docs/fundamentals/gesture-composition.md) it with [`Pan` gesture](./pan-gesture.md).
 
 ## Config
 
@@ -95,11 +95,11 @@ Defaults to `HoverEffect.None`
 
 ### `x`
 
-X coordinate of the current position of the pointer relative to the view attached to the [`GestureDetector`](/docs/gestures/gesture-detector). Expressed in point units.
+X coordinate of the current position of the pointer relative to the view attached to the [`GestureDetector`](./gesture-detector.md). Expressed in point units.
 
 ### `y`
 
-Y coordinate of the current position of the pointer relative to the view attached to the [`GestureDetector`](/docs/gestures/gesture-detector). Expressed in point units.
+Y coordinate of the current position of the pointer relative to the view attached to the [`GestureDetector`](./gesture-detector.md). Expressed in point units.
 
 ### `absoluteX`
 
