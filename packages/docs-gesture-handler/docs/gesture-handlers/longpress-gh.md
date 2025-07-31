@@ -53,7 +53,7 @@ Duration of the long press (time since the start of the event), expressed in mil
 
 ## Example
 
-See the [multitap example](https://github.com/software-mansion/react-native-gesture-handler/blob/main/example/src/basic/multitap/index.tsx) from GestureHandler Example App.
+See the [multitap example](https://github.com/software-mansion/react-native-gesture-handler/blob/main/apps/common-app/src/basic/multitap/index.tsx) from GestureHandler Example App.
 
 ```js
 const LongPressButton = () => (
